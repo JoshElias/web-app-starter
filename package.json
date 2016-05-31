@@ -7,8 +7,7 @@
     "webpack",
     "typescript"
   ],
-  "author": "Patrick Stapleton <patrick@angularclass.com>",
-  "homepage": "https://github.com/angularclass/angular2-webpack-starter",
+  "author": "Josh Elias <josh.elias.dev@gmail.com>",
   "license": "MIT",
   "scripts": {
     "rimraf": "rimraf",
@@ -130,10 +129,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/angularclass/angular2-webpack-starter.git"
-  },
-  "bugs": {
-    "url": "https://github.com/angularclass/angular2-webpack-starter/issues"
+    "url": "https://github.com/JoshElias/web-app-starter.git"
   },
   "engines": {
     "node": ">= 4.2.1",
